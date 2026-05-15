@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dental-clinic/static/css/main.bbf6bff8.css",
+    "main.js": "/dental-clinic/static/js/main.e57be29c.js",
+    "static/media/fa-solid-900.woff2": "/dental-clinic/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
+    "static/media/fa-brands-400.woff2": "/dental-clinic/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
+    "static/media/fa-regular-400.woff2": "/dental-clinic/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
+    "static/media/fa-v4compatibility.woff2": "/dental-clinic/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
+    "index.html": "/dental-clinic/index.html",
+    "main.bbf6bff8.css.map": "/dental-clinic/static/css/main.bbf6bff8.css.map",
+    "main.e57be29c.js.map": "/dental-clinic/static/js/main.e57be29c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf6bff8.css",
+    "static/js/main.e57be29c.js"
+  ]
+}
